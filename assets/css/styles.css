@@ -1,0 +1,19 @@
+* {
+  color: blue;
+}
+
+ol a {
+  font-size: 200%;
+}
+
+ol + p {
+  background-color: yellow;
+}
+
+p[name="first"] {
+  font-size: 300%;
+}
+
+p[name*="para"] {
+    color: green;
+}
